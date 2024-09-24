@@ -1,0 +1,31 @@
+_repo: The-kaleidoscope_74417
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brewster, David
+    alias: Brewster, David, Sir
+    birthdate: 1781
+    deathdate: 1868
+    gutenberg_agent_id: '31721'
+    url: http://www.gutenberg.org/2009/agents/31721
+    wikipedia: https://en.wikipedia.org/wiki/David_Brewster
+description: ''
+gutenberg_issued: '2024-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74417'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uiuc.3200772_001
+pgterms:marc905: 20220921142534brewster
+pgterms:marc906: '1870'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bJohn Camden Hotten, $c1870.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The kaleidoscope
+url: http://www.gutenberg.org/ebooks/74417
